@@ -1,2 +1,2 @@
 # DynamicJenkinsCluster
-Using this approach we eleminate downtime while website updating/upgrading.
+Using this approach we can eleminate downtime while updating or upgrading website.
